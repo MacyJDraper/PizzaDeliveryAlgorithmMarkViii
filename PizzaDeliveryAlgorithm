@@ -1,7 +1,8 @@
-1. Call Domino's
+1. Call _________(pizza place)
+    a. if they dont answer, go back to to 1. otherwise, continue.
 2. Order a ________(pizza type) Pizza
 3. Give Credit Card Info
 4. Wait
 5. Receive Pizza
     a. if pizza is not ______ (pizza type), then send back. Otherwise, continue.
-6. Tip p
+6. If we did not tip on the phone, then tip the driver.
